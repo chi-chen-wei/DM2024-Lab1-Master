@@ -5,3 +5,6 @@ __pycache__/
 # Ignore OS-specific files
 .DS_Store
 Thumbs.db
+
+# Ignore Jupyter Notebook checkpoint files
+.ipynb_checkpoints/
